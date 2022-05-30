@@ -316,32 +316,32 @@
 				<div class="contact-form">
 					
 					<!--Contact Form-->
-					<form onsubmit="sendEmail();">
+					<form action="https://formspree.io/f/meqnnvqo" method="POST">
 						<div class="row clearfix">
 						
 							<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-								<span class="icon flaticon-user-2"></span>
-								<input type="text" name="username" placeholder="Your Name" id="name">
+								<label for="username" class="icon flaticon-user-2"></label>
+								<input type="text" name="username" placeholder="Your Name" id="name" autocomplete="off" required>
 							</div>
 							
 							<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-								<span class="icon flaticon-phone-call"></span>
-								<input type="text" name="phone" placeholder="Your Phone" id="phone">
+								<label for="phone" class="icon flaticon-phone-call"></label>
+								<input type="text" name="phone" placeholder="Your Phone" id="phone" autocomplete="off" required>
 							</div>
 							
 							<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-								<span class="icon flaticon-big-envelope"></span>
-								<input type="email" name="email" placeholder="Email" id="email">
+								<label for="email" class="icon flaticon-big-envelope"></label>
+								<input type="email" name="email" placeholder="Email" id="email" autocomplete="off" required>
 							</div>
 							
 							<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-								<span class="icon flaticon-notepad"></span>
-								<input type="text" name="subject" placeholder="Subject" id="subject">
+								<label for="subject" class="icon flaticon-notepad"></label>
+								<input type="text" name="subject" placeholder="Subject" id="subject" autocomplete="off" required>
 							</div>
 							
 							<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-								<span class="icon flaticon-message"></span>
-								<textarea name="message" placeholder="Message" id="message"></textarea>
+								<label for="message" class="icon flaticon-message"></label>
+								<textarea name="message" placeholder="Message" id="message" required></textarea>
 							</div>
 							
 							<div class="col-lg-12 col-md-12 col-sm-12 text-center form-group">
@@ -475,11 +475,7 @@
     <h5>Dark Verion</h5>
 	<ul class="dark-version option-box"> <li class="box">Yes</li> <li>No</li></ul>
 	
-	<a href="#" class="purchase-btn">Purchase now $17</a>
-	
-    <div class="palate-foo">
-        <span>You will find much more options and styling in admin panel.</span>
-    </div>
+    <div class="palate-foo"></div>
 
 </div>
 
@@ -511,30 +507,6 @@
 <script src="js/jquery-ui.js"></script>
 <script src="js/script.js"></script>
 <script src="js/color-settings.js"></script>
-<script src="https://smtpjs.com/v3/smtp.js"></script>
-
-<script>
-
-	// function sendEmail() {
-		
-	// 		Email.send({
-	// 			Host : "smtp.gmail.com",
-	// 			Username : "appideas8@gmail.com",
-	// 			Password : "aSAD'1997",
-	// 			To : 'appideas8@gmail.com',
-	// 			From : document.getElementById('email').value,
-	// 			Subject : "New Contact",
-	// 			Body : "Name: " + document.getElementById('name').value
-	// 					+ "<br> Phone: " + document.getElementById('phone').value
-	// 					+ "<br> Email: " + document.getElementById('email').value
-	// 					+ "<br> Subject: " + document.getElementById('subject').value
-	// 					+ "<br> Message: " + document.getElementById('message').value
-	// 			}).then(
-	// 			message => alert("Your Message has been send successfully")
-	// 		);
-	// }
-
-</script>
 
 </body>
 </html>
