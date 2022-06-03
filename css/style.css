@@ -4841,7 +4841,7 @@ img{
 
 ***/
 
-.testimonial-section{
+/* .testimonial-section{
 	position:relative;
 	padding:120px 0px 120px;
 }
@@ -5039,7 +5039,7 @@ img{
 	font-weight:400;
 	font-size:16px;
 	margin-top:8px;
-}
+} */
 
 /*** 
 
@@ -5049,7 +5049,7 @@ img{
 
 ***/
 
-.team-section{
+/* .team-section{
 	position:relative;
 	overflow:hidden;
 	padding:0px 0px 80px;
@@ -5275,7 +5275,7 @@ img{
 
 .team-block.style-two .inner-box .lower-content .content h4{
 	font-size:24px;
-}
+} */
 
 /*** 
 
@@ -5285,7 +5285,7 @@ img{
 
 ***/
 
-.pricing-section{
+/* .pricing-section{
 	position:relative;
 	padding:0px 0px 100px;
 	background-color:#f3f4ff;
@@ -5391,11 +5391,11 @@ img{
 	background: -webkit-linear-gradient(to right, #ff0300 0%, #ff8f00 100%);
 	background: -moz-linear-gradient(to right, #ff0300 0%, #ff8f00 100%);
 	background: linear-gradient(to right, #ff0300 0%, #ff8f00 100%);
-}
+} */
 
 /* Price Block */
 
-.price-block{
+/* .price-block{
 	position:relative;
 	margin-bottom:30px;
 	transition:all 900ms ease;
@@ -5428,7 +5428,7 @@ img{
 	height:70px;
 }
 
-@keyframes slide{
+@keyframes slide{r
 	from { background-position: 0 0; }
     to { background-position: 3000px 0; }
 }
@@ -5497,7 +5497,7 @@ img{
 .price-block.active .inner-box .price-list li,
 .price-block.active .inner-box .price{
 	color:#ffffff;
-}
+} */
 
 /*** 
 
@@ -12500,7 +12500,7 @@ img{
 ====================================================================
 
 ***/
-
+/* 
 .cart-section{
 	position:relative;
 	padding:80px 0px;
@@ -12883,7 +12883,7 @@ img{
 .shipping-form .form-group input:focus,
 .shipping-form .form-group textarea:focus{
 	border-color:#eb3867;
-}
+} */
 
 /*** 
 
@@ -12893,7 +12893,7 @@ img{
 
 ***/
 
-.checkout-page{
+/* .checkout-page{
 	position:relative;
 	padding:75px 0px 70px;
 }
@@ -13039,11 +13039,11 @@ img{
 	width:40px;
 	height:2px;
 	background-color:#e82a6a;
-}
+} */
 
 /*cart outer*/
 
-.cart-outer{
+/* .cart-outer{
 	position:relative;	
 }
 
@@ -13142,11 +13142,11 @@ img{
 	font-weight:700;
 	font-size:14px;
 	color:#777777;	
-}
+} */
 
 /*Total Table*/
 
-.checkout-page .lower-content .totals-table{
+/* .checkout-page .lower-content .totals-table{
 	position:relative;
 	margin-bottom:40px;
 	border:1px solid #eeeeee;
@@ -13182,11 +13182,11 @@ img{
 	color: #848484;
 	font-weight: 300;
 	font-size:16px;
-}
+} */
 
 /*Payment Option*/
 
-.checkout-page .payment-options{
+/* .checkout-page .payment-options{
 	position:relative;
 	padding:30px 20px;
 	background-color:#f7f7f7;
@@ -13417,7 +13417,7 @@ img{
 	color:#e82a6a;
 	font-size:16px;
 	margin-bottom:40px;
-}
+} */
 
 /*Pincode Form*/
 
@@ -13471,7 +13471,7 @@ img{
 
 ***/
 
-.shop-single .product-details .prod-tabs{
+/* .shop-single .product-details .prod-tabs{
 	position:relative;
 	margin-bottom:60px;
 }
@@ -13540,11 +13540,11 @@ img{
 	font-weight:400;
 	margin-top:10px;
 	margin-bottom:25px;
-}
+} */
 
 /*Comment Form*/
 
-.shop-comment-form{
+/* .shop-comment-form{
 	position:relative;
 }
 
@@ -13675,7 +13675,7 @@ img{
 .shop-comment-form select:focus,
 .shop-comment-form textarea:focus{
 	border-color:#f06529;	
-}
+} */
 
 /*Related Products*/
 
@@ -13730,7 +13730,7 @@ img{
 
 ***/
 
-.register-section{
+/* .register-section{
 	position:relative;
 	padding:80px 0px 0px;
 }
@@ -13758,7 +13758,7 @@ img{
 	width:50px;
 	height:2px;
 	background-color:#eb3867;
-}
+} */
 
 /* RTL Code */
 
@@ -15218,7 +15218,7 @@ img{
 
 ***/
 
-.team-section-two{
+/* .team-section-two{
 	position:relative;
 	padding:0px 0px 100px;
 	background-color:#f3f4ff;
@@ -15467,7 +15467,7 @@ img{
 	padding:4px 14px 4px 15px;
 	top: -1px;
 	background-color:#1da1f2;
-}
+} */
 
 /*** 
 
@@ -15476,7 +15476,7 @@ img{
 ====================================================================
 
 ***/
-
+/* 
 .banner-section-five{
 	position:relative;
 	overflow:hidden;
@@ -15676,7 +15676,7 @@ img{
 .banner-section-five .content-column .phone-box:hover .phone-icon{
 	color:#ffffff;
 	background-color:#f64a1b;
-}
+} */
 
 /*** 
 
@@ -15892,7 +15892,7 @@ img{
 ====================================================================
 
 ***/
-
+/* 
 .banner-section-six{
 	position:relative;
 	overflow:hidden;
@@ -15971,4 +15971,4 @@ img{
 	position:relative;
 	margin-left:-100px;
 	margin-right:-100px;
-}
+} */
