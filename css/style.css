@@ -5700,10 +5700,9 @@ img{
 .main-footer{
 	position:relative;
 	padding:200px 0px 0px;
-	background: #6917B4;
-	background: -webkit-linear-gradient(to right, #6917B4 0%, #d54be1 100%);
-	background: -moz-linear-gradient(to right, #6917B4 0%, #d54be1 100%);
-	background: linear-gradient(to right, #6917B4 0%, #d54be1 100%);
+	background: -webkit-linear-gradient(to right, #3A3CCE 0%, #5F48E2 100%);
+	background: -moz-linear-gradient(to right, #3A3CCE 0%, #5F48E2 100%);
+	background: linear-gradient(to right, #3A3CCE 0%, #5F48E2 100%);
 }
 
 .main-footer.style-two{
@@ -7728,7 +7727,7 @@ img{
  
 .seo-section{
 	position:relative;
-	padding:90px 0px 60px;
+	padding:0px 0px 60px;
 }
 
 .seo-section .seo-image{
