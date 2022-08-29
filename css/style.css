@@ -6550,10 +6550,7 @@ img{
 	-webkit-transition:all 600ms ease;
 	-ms-transition:all 600ms ease;
 	-o-transition:all 600ms ease;
-	background: #D84DE2;
-	background: -webkit-linear-gradient(to bottom, #D84DE2 0%, #6815b2 100%);
-	background: -moz-linear-gradient(to bottom, #D84DE2 0%, #6815b2 100%);
-	background: linear-gradient(to bottom, #D84DE2 0%, #6815b2 100%);
+	background: linear-gradient(to bottom, #4c68e2 0%, #161ab2 100%);
 }
 
 .service-block-four .inner-box .arrow-icon{
