@@ -1608,7 +1608,7 @@ img{
 	text-align:center;
 	border-radius:50px;
 	margin-left:30px;
-	background-color:#652e6f;
+	background-color:#4c68e2;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -11083,7 +11083,6 @@ img{
 	height:100%;
 	display:block;
 	text-align:center;
-	background-color:rgba(235,53,103,0.60);
 }
 
 .news-block-three .inner-box .image .overlay-box .icon{
