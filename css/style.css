@@ -5452,7 +5452,7 @@ img{
 
 .price-block .inner-box .price{
 	position:relative;
-	font-size:30px;
+	font-size:30px !important;
 	font-weight:600;
 	color:#222222;
 	line-height:1em;
@@ -11083,6 +11083,7 @@ img{
 	height:100%;
 	display:block;
 	text-align:center;
+	background-color: none !important;
 }
 
 .news-block-three .inner-box .image .overlay-box .icon{
