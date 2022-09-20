@@ -5553,7 +5553,6 @@ img{
 	height:100%;
 	color:#ffffff;
 	text-align:center;
-	background-color:rgba(235,53,103,0.80);
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
 	transition: transform 0.4s ease,-webkit-transform 0.4s ease;
@@ -7518,7 +7517,6 @@ img{
 	height:100%;
 	color:#ffffff;
 	text-align:center;
-	background-color:rgba(235,53,103,0.80);
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
 	transition: transform 0.4s ease,-webkit-transform 0.4s ease;
@@ -10846,7 +10844,6 @@ img{
     -webkit-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    background-color: rgba(220,78,228,0.70);
 }
 
 .sidebar .popular-posts .post .post-thumb .overlay-box .fa{
